@@ -1,0 +1,1 @@
+C:\dev2\toDoListReact\obj\Debug\todolistreact.esproj.CoreCompileInputs.cache
